@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+body{
+  background-color:grey;
+  }
+.D{
+    text-align: center;
+    border: 1px #adadad;
+    margin: 40px;
+    padding: 20px;
+    background: lightslategray;
+    height: auto;
+    width: auto;
+}
+.navbar-default{
+    background-color: #adadad;
+}
